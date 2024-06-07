@@ -1,9 +1,6 @@
 # Welcome to My GitHub! 👋
 
-I'm Ayush Meher, a data-driven decision-maker with a solid foundation in computer myfiles_browserscience and a strong background in data analysis and business analytics. Armed with a Master of Global Management in Data Science from Thunderbird School of Global Management and an MBA in Marketing Analytics from Solbridge International School of Business, I blend analytical expertise with business acumen to drive impactful data insights.
-
-## 🔍 Current Role
-I am currently freelancing as a Prompt Engineer at Scale AI in San Francisco, focusing on enhancing large language model outputs and training models like ChatGPT and Bard.
+I'I'm Ayush Meher, a data-driven decision-maker with a solid foundation in computer science and a strong background in data analysis and business analytics. Freshly graduated with a Master of Global Management in Data Science from Thunderbird School of Global Management and an MBA in Marketing Analytics from Solbridge International School of Business, I am actively looking for a full-time position as a Data Analyst or Business Analyst.
 
 ## 🎓 Education
 - **Master of Global Management, Data Science** (STEM Degree) - Thunderbird School of Global Management, Arizona State University
