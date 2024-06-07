@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-I'm Ayush Meher, a data-driven decision-maker with a solid foundation in computer science and a strong background in data analysis and business analytics. Armed with a Master of Global Management in Data Science from ThunderBIRD School of Global Management and an MBA in Marketing Analytics from SolBridge International School of Business, I blend analytical expertise with business acumen to drive impactful data insights.
+I'm Ayush Meher, a data-driven decision-maker with a solid foundation in computer myfiles_browserscience and a strong background in data analysis and business analytics. Armed with a Master of Global Management in Data Science from Thunderbird School of Global Management and an MBA in Marketing Analytics from Solbridge International School of Business, I blend analytical expertise with business acumen to drive impactful data insights.
 
 ## 🔍 Current Role
 I am currently freelancing as a Prompt Engineer at Scale AI in San Francisco, focusing on enhancing large language model outputs and training models like ChatGPT and Bard.
@@ -18,9 +18,12 @@ I am currently freelancing as a Prompt Engineer at Scale AI in San Francisco, fo
 - **Certifications:** Data Science Certification, Advanced Excel, Python Data Analysis, SQL, AWS Cloud Practitioner
 
 ## 📈 Professional Experience
-- **GHG Student Analyst**, Cisco: Led a comprehensive sustainability assessment focusing on teleworking GHG emissions.
-- **Supply Chain Data Analyst**, Norsk Hydro: Enhanced data accuracy and improved operational efficiency in collaboration with major automotive manufacturers.
-- **Business Analyst**, Crown Pipes: Leveraged Python and SQL to conduct market research and trend analysis, facilitating informed strategic decisions.
+- **Prompt Engineer (Freelancing)**, Scale AI, San Francisco, US: Improving large language model outputs using reinforcement learning and human feedback.
+- **GHG Student Analyst (Internship)**, Cisco, Raleigh, US: Conducted sustainability assessments and developed tools for teleworking GHG emissions.
+- **Supply Chain Data Analyst**, Norsk Hydro, Phoenix, US: Worked with Tesla, Lucid, Hyundai to enhance data accuracy and operational efficiency.
+- **Marketing Data Intern**, Naver OGQ, Seoul, Korea: Led market research and competitive analysis for Korea's first NFT project.
+- **System Engineer/Data Analyst**, Infosys, Pune, India: Performed SQL-based data analysis and provided mainframe support to CVS Healthcare.
+- **Business Analyst**, Crown Pipes, Pune, India: Conducted market research and analysis using Python and SQL to support strategic decision-making.
 
 ## 🌱 I’m currently looking for opportunities!
 I am actively seeking opportunities as a **Data Analyst**, **Business Analyst**, or in roles focusing on **Power BI** and **Tableau** to leverage my analytical skills and business knowledge to provide actionable insights.
