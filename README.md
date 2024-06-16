@@ -34,4 +34,3 @@ I am multilingual, fluent in English, Hindi, Marathi, and Korean, and I thrive i
 
 Thank you for visiting my GitHub profile. Feel free to connect with me or check out my projects!
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushmeher)](https://github.com/ayushmeher/github-readme-stats)
