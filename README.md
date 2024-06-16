@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-I'I'm Ayush Meher, a data-driven decision-maker with a solid foundation in computer science and a strong background in data analysis and business analytics. Freshly graduated with a Master of Global Management in Data Science from Thunderbird School of Global Management and an MBA in Marketing Analytics from Solbridge International School of Business, I am actively looking for a full-time position as a Data Analyst or Business Analyst.
+I'm Ayush Meher, a data-driven decision-maker with a solid foundation in computer science and a strong background in data analysis and business analytics. Freshly graduated with a Master of Global Management in Data Science from Thunderbird School of Global Management and an MBA in Marketing Analytics from Solbridge International School of Business, I am actively looking for a full-time position as a Data Analyst or Business Analyst.
 
 ## 🎓 Education
 - **Master of Global Management, Data Science** (STEM Degree) - Thunderbird School of Global Management, Arizona State University
